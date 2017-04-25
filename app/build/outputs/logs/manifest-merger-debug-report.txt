@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\7ff41bb8efd1481fc3105089cc70a01058dfade0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\7a8401225412e426947ea0bc7894a397c61a4d15\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\5a665d6b58b0b7093d95b42a7171f59ce6a0b415\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\e9fef7d7ec75de891f926c83e8718dfe79fda873\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\397f20e229c0863b8ae3f2b5d008e152322400ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\9838030f86f5c8496e6d5dd333eafe19909ef6f1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\27bcc9aa7a0e274ca6f7f436a9dade93f552284c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\8ae601536adf8a1eca17ea70cadf122e25e4d9f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\7be87694dbaa76a62cbfb33fa2b0e8faa5d035ba\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.maniac.connectclientbluetooth.MainActivity
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\7ff41bb8efd1481fc3105089cc70a01058dfade0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\7a8401225412e426947ea0bc7894a397c61a4d15\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\5a665d6b58b0b7093d95b42a7171f59ce6a0b415\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\e9fef7d7ec75de891f926c83e8718dfe79fda873\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\397f20e229c0863b8ae3f2b5d008e152322400ac\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\9838030f86f5c8496e6d5dd333eafe19909ef6f1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\27bcc9aa7a0e274ca6f7f436a9dade93f552284c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\8ae601536adf8a1eca17ea70cadf122e25e4d9f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\7be87694dbaa76a62cbfb33fa2b0e8faa5d035ba\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Maniac\Development\Android apps\ConnectClientBluetooth\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.android\build-cache\7ff41bb8efd1481fc3105089cc70a01058dfade0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.android\build-cache\7a8401225412e426947ea0bc7894a397c61a4d15\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.android\build-cache\5a665d6b58b0b7093d95b42a7171f59ce6a0b415\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.android\build-cache\e9fef7d7ec75de891f926c83e8718dfe79fda873\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.android\build-cache\397f20e229c0863b8ae3f2b5d008e152322400ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\9838030f86f5c8496e6d5dd333eafe19909ef6f1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.android\build-cache\27bcc9aa7a0e274ca6f7f436a9dade93f552284c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.android\build-cache\8ae601536adf8a1eca17ea70cadf122e25e4d9f5\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.android\build-cache\4f85eec2df941418fd7969901fdb169ae643d884\output\AndroidManifest.xml:26:9-47
